@@ -4,7 +4,7 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header>
     <h1>
-      <img src="lisc.png" alt={siteTitle} title={siteTitle} draggable="false" />
+      <img src="../images/lisc.png" alt={siteTitle} title={siteTitle} draggable="false" />
     </h1>
   </header>
 )
