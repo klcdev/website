@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Klocuszek`,
+    title: `Liść`,
     description: `Serwer minecraft.`,
   },
   plugins: [
