@@ -1,10 +1,11 @@
 import PropTypes from "prop-types"
 import React from "react"
+import Logo from "./logo"
 
 const Header = ({ siteTitle }) => (
   <header>
     <h1>
-      <img src="../images/lisc.png" alt={siteTitle} title={siteTitle} draggable="false" />
+      <Logo alt={siteTitle} title={siteTitle} draggable={false} />
     </h1>
   </header>
 )
